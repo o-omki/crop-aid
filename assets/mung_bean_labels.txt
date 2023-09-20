@@ -1,0 +1,9 @@
+0 alternaria_blight
+1 bacterial_blight
+2 downy_mildew
+3 healthy
+4 mustard_aphid
+5 mustard_leaf_miner
+6 mustard_saw_fly
+7 painted_bug
+8 white_rust
